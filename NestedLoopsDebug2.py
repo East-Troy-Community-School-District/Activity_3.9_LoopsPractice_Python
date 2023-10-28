@@ -1,7 +1,8 @@
 '''
 Nested Loops Debug 2
-1/18/2023
-Python I
+Pawelski
+10/28/2023
+Introduction to Computer Science
 '''
 
 for i in range(0, 2):
